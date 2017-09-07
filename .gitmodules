@@ -1,0 +1,15 @@
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/prologue"]
+	path = themes/prologue
+	url = https://github.com/sethmacleod/prologue.git
+[submodule "themes/future-imperfect"]
+	path = themes/future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/material-design"]
+	path = themes/material-design
+	url = https://github.com/pdevty/material-design.git
+[submodule "themes/angels-ladder"]
+	path = themes/angels-ladder
+	url = https://github.com/tanksuzuki/angels-ladder.git
