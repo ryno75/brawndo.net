@@ -1,0 +1,30 @@
+baseURL = "http://brawndo.net/"
+languageCode = "en-us"
+title = "brawndo.net"
+theme = "material-design"
+
+MetaDataFormat = "toml"
+#paginate = 9 # To specify a multiple of 3
+copyright = "© 2017 Ryan Kennedy"
+
+[params]
+  description = "it's got what devops craves... automation"
+  twitter = "ryno_75"
+  github = "ryno75"
+  facebook = "rrkennedy"
+  #gplus = "Your Google+ profile name" # optional
+  linkedin = "rrkennedy"
+  #headerCover = "images/headerCover.png" # optional
+  #footerCover = "images/footerCover.png" # optional
+  #googleAnalyticsUserID = "Your Analytics User Id" # optional
+
+# for AngelsLadder theme
+#[Params]
+#subtitle = "it has automation, what devops craves."
+#facebook = "https://facebook.com/rrkennedy"
+#linkedin = "https://linkedin.com/rrkennedy"
+#twitter = "https://twitter.com/ryno_75"
+#github = "https://github.com/ryno75"
+#showsRSS = true
+#profile = "/images/brawndo.jpg"
+#copyright = "Ryan Kennedy"
